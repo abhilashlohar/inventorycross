@@ -1,0 +1,1 @@
+<?php echo $this->Form->input('city', ['empty'=>'--Select--','label'=>'City','options' => $cities,'class' => 'form-control input-sm']); ?>
